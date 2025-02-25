@@ -1,1 +1,0 @@
-mpiexec -n 4 _bin\01_hello.exe
